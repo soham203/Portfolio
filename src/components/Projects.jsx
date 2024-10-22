@@ -5,12 +5,12 @@ function Projects() {
     {
       title: 'Blockchain DApp',
       description: 'A decentralized application using Solidity and React.',
-      link: 'https://github.com/soham203/blockchain-dapp'
+      link: 'https://github.com/soham203/camp'
     },
     {
       title: 'MERN Stack Project',
       description: 'A full-stack application with React, Node.js, and MongoDB.',
-      link: 'https://github.com/soham203/mern-app'
+      link: 'https://github.com/soham203/BunkhouseHostels.git'
     }
   ];
 
